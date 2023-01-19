@@ -45,7 +45,7 @@ public class Atm {
                 if (right == 0) {
                     System.out.println("Hesabınız bloke olmuştur");
                 }
-                System.out.println("Kalan hakkınız:" + --right);
+                System.out.println("Kalan hakkınız:" + right);
             }
         }
     }
